@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "anton-maksimov-5642-su-NHWSLNffg1s-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "anton-maksimov-5642-su-NHWSLNffg1s-unsplash@2x.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "anton-maksimov-5642-su-NHWSLNffg1s-unsplash@3x.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
